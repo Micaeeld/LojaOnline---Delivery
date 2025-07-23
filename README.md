@@ -46,10 +46,10 @@ Este projeto é um dashboard interativo desenvolvido no **Power BI** para análi
 ## 🖥️ Screenshots
 
 ✅ Aba Envios
-![image](https://github.com/user-attachments/assets/823ed967-224a-44da-ba91-07938c74f9af)
+<img width="1427" height="803" alt="image" src="https://github.com/user-attachments/assets/79281277-32af-4b1f-9e66-fea367768175" />
 
 ✅ Aba Vendas
-![image](https://github.com/user-attachments/assets/4cf72023-64a1-42c1-ba83-3028a2f323dc)
+<img width="1426" height="803" alt="image" src="https://github.com/user-attachments/assets/795d4a8b-0dc8-43b8-bdf4-369b27928b4b" />
 
 ---
 
